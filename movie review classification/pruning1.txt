@@ -1,0 +1,324 @@
+Reading Files
+Done.
+713
+Reading Files
+Done.
+0
+0  :  427 ( None )	
+
+1  :  870 ( None )	240 ( None )	
+
+2  :  None ( 1 )	3533 ( None )	6191 ( None )	368 ( None )	
+
+3  :  None ( 1 )	856 ( None )	None ( 1 )	813 ( None )	584 ( None )	2299 ( None )	
+
+4  :  None ( -1 )	734 ( None )	None ( -1 )	1285 ( None )	None ( -1 )	897 ( None )	None ( -1 )	3111 ( None )	
+
+5  :  813 ( None )	29344 ( None )	None ( -1 )	6217 ( None )	None ( -1 )	328 ( None )	None ( -1 )	373 ( None )	
+
+6  :  None ( 1 )	622 ( None )	None ( 1 )	2443 ( None )	None ( -1 )	3969 ( None )	None ( -1 )	2083 ( None )	734 ( None )	3953 ( None )	
+
+7  :  None ( 1 )	None ( -1 )	None ( 1 )	9168 ( None )	None ( 1 )	422 ( None )	None ( -1 )	373 ( None )	None ( -1 )	870 ( None )	None ( -1 )	6191 ( None )	
+
+8  :  None ( 1 )	691 ( None )	81277 ( None )	1596 ( None )	None ( -1 )	2290 ( None )	None ( 1 )	1844 ( None )	None ( 1 )	1014 ( None )	
+
+9  :  584 ( None )	30190 ( None )	None ( 1 )	870 ( None )	None ( -1 )	2289 ( None )	None ( -1 )	1956 ( None )	None ( -1 )	422 ( None )	None ( -1 )	328 ( None )	
+
+10  :  None ( -1 )	44638 ( None )	None ( 1 )	22767 ( None )	None ( 1 )	None ( -1 )	None ( -1 )	2919 ( None )	None ( -1 )	77 ( None )	None ( -1 )	906 ( None )	622 ( None )	1893 ( None )	
+
+11  :  None ( -1 )	8224 ( None )	None ( 1 )	19427 ( None )	None ( -1 )	2256 ( None )	22679 ( None )	3969 ( None )	None ( -1 )	691 ( None )	23468 ( None )	856 ( None )	32341 ( None )	971 ( None )	
+
+12  :  None ( -1 )	None ( 1 )	None ( 1 )	5679 ( None )	None ( -1 )	9860 ( None )	None ( -1 )	955 ( None )	None ( 1 )	422 ( None )	None ( 1 )	6277 ( None )	None ( 1 )	None ( -1 )	None ( -1 )	584 ( None )	None ( 1 )	None ( -1 )	813 ( None )	3424 ( None )	
+
+13  :  1707 ( None )	328 ( None )	None ( -1 )	1956 ( None )	16636 ( None )	1289 ( None )	None ( -1 )	7943 ( None )	None ( -1 )	363 ( None )	None ( -1 )	422 ( None )	None ( 1 )	955 ( None )	None ( -1 )	10327 ( None )	
+
+14  :  None ( 1 )	None ( -1 )	77 ( None )	77 ( None )	None ( -1 )	1173 ( None )	None ( 1 )	None ( -1 )	None ( -1 )	906 ( None )	None ( -1 )	5334 ( None )	2846 ( None )	37839 ( None )	870 ( None )	870 ( None )	None ( -1 )	856 ( None )	None ( -1 )	2362 ( None )	
+
+15  :  None ( -1 )	344 ( None )	422 ( None )	None ( -1 )	None ( -1 )	5334 ( None )	None ( 1 )	1596 ( None )	None ( -1 )	955 ( None )	None ( 1 )	None ( -1 )	None ( -1 )	8224 ( None )	None ( 1 )	None ( -1 )	None ( -1 )	363 ( None )	None ( -1 )	760 ( None )	None ( -1 )	4111 ( None )	
+
+16  :  None ( -1 )	953 ( None )	None ( -1 )	2427 ( None )	None ( -1 )	22899 ( None )	None ( 1 )	5780 ( None )	None ( -1 )	13772 ( None )	None ( -1 )	54539 ( None )	None ( 1 )	1627 ( None )	None ( -1 )	584 ( None )	None ( -1 )	906 ( None )	
+
+17  :  None ( -1 )	2846 ( None )	None ( -1 )	584 ( None )	None ( -1 )	9344 ( None )	None ( 1 )	363 ( None )	None ( -1 )	5078 ( None )	None ( -1 )	344 ( None )	None ( -1 )	50739 ( None )	None ( 1 )	622 ( None )	363 ( None )	18899 ( None )	
+
+18  :  None ( -1 )	None ( 1 )	None ( -1 )	344 ( None )	None ( -1 )	10860 ( None )	None ( 1 )	2120 ( None )	None ( -1 )	29344 ( None )	None ( 1 )	10860 ( None )	None ( -1 )	9860 ( None )	None ( -1 )	691 ( None )	None ( -1 )	77 ( None )	None ( 1 )	1270 ( None )	
+
+19  :  None ( -1 )	955 ( None )	None ( -1 )	19188 ( None )	None ( 1 )	5245 ( None )	None ( 1 )	21692 ( None )	None ( -1 )	4347 ( None )	None ( -1 )	5466 ( None )	None ( -1 )	62439 ( None )	33767 ( None )	4789 ( None )	1456 ( None )	3380 ( None )	
+
+20  :  None ( -1 )	971 ( None )	None ( -1 )	48518 ( None )	None ( 1 )	691 ( None )	None ( 1 )	870 ( None )	None ( -1 )	955 ( None )	None ( -1 )	2068 ( None )	None ( -1 )	3182 ( None )	None ( -1 )	5594 ( None )	None ( 1 )	734 ( None )	None ( 1 )	None ( -1 )	2027 ( None )	6329 ( None )	
+
+21  :  None ( -1 )	813 ( None )	None ( -1 )	368 ( None )	None ( 1 )	None ( 1 )	None ( 1 )	37348 ( None )	None ( -1 )	4153 ( None )	None ( -1 )	2922 ( None )	None ( -1 )	4388 ( None )	None ( -1 )	6735 ( None )	None ( -1 )	5326 ( None )	None ( 1 )	None ( -1 )	None ( -1 )	2846 ( None )	
+
+22  :  None ( -1 )	6040 ( None )	None ( 1 )	328 ( None )	None ( 1 )	58085 ( None )	None ( -1 )	760 ( None )	None ( -1 )	813 ( None )	None ( -1 )	2612 ( None )	None ( -1 )	1844 ( None )	None ( -1 )	10522 ( None )	None ( -1 )	3379 ( None )	
+
+23  :  None ( -1 )	13235 ( None )	4153 ( None )	906 ( None )	None ( 1 )	2532 ( None )	None ( -1 )	5466 ( None )	2612 ( None )	77 ( None )	None ( -1 )	11429 ( None )	None ( -1 )	None ( 1 )	None ( -1 )	None ( -1 )	None ( -1 )	3889 ( None )	
+
+24  :  None ( -1 )	14805 ( None )	None ( -1 )	2947 ( None )	None ( -1 )	1606 ( None )	None ( 1 )	None ( -1 )	None ( -1 )	897 ( None )	None ( 1 )	691 ( None )	None ( 1 )	971 ( None )	None ( -1 )	44820 ( None )	None ( -1 )	344 ( None )	
+
+25  :  None ( -1 )	5940 ( None )	None ( -1 )	None ( 1 )	None ( -1 )	1897 ( None )	None ( -1 )	36037 ( None )	None ( 1 )	None ( -1 )	None ( 1 )	760 ( None )	None ( -1 )	734 ( None )	856 ( None )	5078 ( None )	
+
+26  :  None ( -1 )	None ( 1 )	None ( -1 )	584 ( None )	None ( -1 )	13340 ( None )	None ( 1 )	21978 ( None )	None ( -1 )	77 ( None )	3136 ( None )	29344 ( None )	None ( -1 )	2235 ( None )	
+
+27  :  856 ( None )	1456 ( None )	None ( -1 )	26207 ( None )	None ( 1 )	None ( 1 )	344 ( None )	None ( 1 )	None ( -1 )	None ( 1 )	None ( 1 )	363 ( None )	None ( -1 )	5009 ( None )	
+
+28  :  760 ( None )	None ( -1 )	None ( -1 )	2694 ( None )	None ( -1 )	2252 ( None )	61025 ( None )	363 ( None )	None ( -1 )	1103 ( None )	None ( -1 )	30487 ( None )	
+
+29  :  None ( -1 )	None ( 1 )	None ( -1 )	2532 ( None )	None ( 1 )	584 ( None )	None ( 1 )	None ( -1 )	None ( 1 )	79054 ( None )	None ( -1 )	3500 ( None )	None ( -1 )	1844 ( None )	
+
+30  :  None ( -1 )	76515 ( None )	None ( 1 )	3380 ( None )	None ( 1 )	1707 ( None )	None ( -1 )	897 ( None )	77 ( None )	2068 ( None )	
+
+31  :  None ( -1 )	7262 ( None )	None ( 1 )	971 ( None )	None ( 1 )	8297 ( None )	None ( -1 )	813 ( None )	2612 ( None )	None ( -1 )	4400 ( None )	2290 ( None )	
+
+32  :  None ( -1 )	11720 ( None )	None ( 1 )	9379 ( None )	None ( 1 )	60311 ( None )	None ( 1 )	1627 ( None )	None ( -1 )	4400 ( None )	None ( 1 )	None ( -1 )	21692 ( None )	2027 ( None )	
+
+33  :  None ( -1 )	2006 ( None )	None ( 1 )	813 ( None )	None ( 1 )	None ( -1 )	None ( -1 )	26018 ( None )	None ( -1 )	None ( 1 )	None ( 1 )	None ( -1 )	None ( 1 )	37839 ( None )	
+
+34  :  None ( -1 )	3284 ( None )	None ( 1 )	953 ( None )	None ( -1 )	12926 ( None )	None ( -1 )	28339 ( None )	
+
+35  :  None ( -1 )	77 ( None )	None ( 1 )	3969 ( None )	None ( -1 )	3850 ( None )	None ( -1 )	3182 ( None )	
+
+36  :  856 ( None )	None ( 1 )	None ( 1 )	77 ( None )	None ( -1 )	77 ( None )	None ( -1 )	8299 ( None )	
+
+37  :  None ( 1 )	971 ( None )	None ( 1 )	None ( 1 )	9937 ( None )	None ( 1 )	None ( -1 )	15987 ( None )	
+
+38  :  955 ( None )	503 ( None )	None ( -1 )	4620 ( None )	None ( -1 )	29329 ( None )	
+
+39  :  None ( 1 )	None ( -1 )	None ( 1 )	6839 ( None )	None ( -1 )	2996 ( None )	None ( -1 )	19188 ( None )	
+
+40  :  None ( 1 )	5245 ( None )	None ( 1 )	9596 ( None )	None ( -1 )	955 ( None )	
+
+41  :  None ( 1 )	3136 ( None )	None ( 1 )	4789 ( None )	21141 ( None )	953 ( None )	
+
+42  :  None ( 1 )	8699 ( None )	None ( 1 )	760 ( None )	None ( -1 )	1359 ( None )	None ( 1 )	11005 ( None )	
+
+43  :  None ( 1 )	373 ( None )	None ( 1 )	1285 ( None )	None ( -1 )	32859 ( None )	None ( -1 )	856 ( None )	
+
+44  :  None ( 1 )	3123 ( None )	None ( 1 )	2922 ( None )	None ( -1 )	953 ( None )	1179 ( None )	87126 ( None )	
+
+45  :  None ( 1 )	None ( 1 )	None ( 1 )	953 ( None )	None ( -1 )	43686 ( None )	None ( -1 )	None ( 1 )	None ( -1 )	5780 ( None )	
+
+46  :  None ( 1 )	None ( -1 )	None ( -1 )	77 ( None )	None ( -1 )	7451 ( None )	
+
+47  :  2996 ( None )	None ( 1 )	None ( -1 )	28264 ( None )	
+
+48  :  None ( 1 )	1627 ( None )	None ( -1 )	86183 ( None )	
+
+49  :  None ( 1 )	584 ( None )	None ( -1 )	734 ( None )	
+
+50  :  None ( 1 )	None ( 1 )	None ( 1 )	363 ( None )	
+
+51  :  1359 ( None )	12776 ( None )	
+
+52  :  None ( -1 )	10686 ( None )	None ( -1 )	20929 ( None )	
+
+53  :  None ( -1 )	3942 ( None )	None ( -1 )	65217 ( None )	
+
+54  :  None ( -1 )	813 ( None )	None ( -1 )	13048 ( None )	
+
+55  :  None ( -1 )	20983 ( None )	None ( -1 )	2919 ( None )	
+
+56  :  None ( -1 )	9156 ( None )	None ( -1 )	1707 ( None )	
+
+57  :  None ( -1 )	77 ( None )	None ( -1 )	31007 ( None )	
+
+58  :  2996 ( None )	None ( 1 )	None ( -1 )	40452 ( None )	
+
+59  :  None ( 1 )	8785 ( None )	None ( -1 )	25590 ( None )	
+
+60  :  None ( 1 )	87888 ( None )	None ( -1 )	19581 ( None )	
+
+61  :  None ( 1 )	None ( -1 )	None ( -1 )	19782 ( None )	
+
+62  :  None ( -1 )	34367 ( None )	
+
+63  :  None ( -1 )	3456 ( None )	
+
+64  :  None ( -1 )	43700 ( None )	
+
+65  :  None ( -1 )	20131 ( None )	
+
+66  :  None ( -1 )	22891 ( None )	
+
+67  :  None ( -1 )	1897 ( None )	
+
+68  :  None ( -1 )	897 ( None )	
+
+69  :  None ( 1 )	2075 ( None )	
+
+70  :  None ( -1 )	9992 ( None )	
+
+71  :  None ( -1 )	18910 ( None )	
+
+72  :  None ( -1 )	16227 ( None )	
+
+73  :  None ( -1 )	8278 ( None )	
+
+74  :  None ( -1 )	58252 ( None )	
+
+75  :  None ( -1 )	3284 ( None )	
+
+76  :  None ( -1 )	3524 ( None )	
+
+77  :  None ( -1 )	29719 ( None )	
+
+78  :  None ( 1 )	7937 ( None )	
+
+79  :  None ( 1 )	3939 ( None )	
+
+80  :  None ( 1 )	584 ( None )	
+
+81  :  870 ( None )	2278 ( None )	
+
+82  :  None ( 1 )	813 ( None )	None ( -1 )	813 ( None )	
+
+83  :  None ( 1 )	70126 ( None )	77 ( None )	2522 ( None )	
+
+84  :  None ( 1 )	8605 ( None )	None ( 1 )	6040 ( None )	None ( -1 )	1359 ( None )	
+
+85  :  None ( 1 )	4950 ( None )	None ( 1 )	6650 ( None )	None ( 1 )	7334 ( None )	
+
+86  :  None ( 1 )	8586 ( None )	None ( 1 )	1173 ( None )	None ( 1 )	6174 ( None )	
+
+87  :  None ( 1 )	622 ( None )	None ( -1 )	None ( -1 )	None ( -1 )	2187 ( None )	
+
+88  :  None ( -1 )	77 ( None )	None ( 1 )	2612 ( None )	
+
+89  :  None ( -1 )	None ( -1 )	None ( -1 )	2083 ( None )	
+
+90  :  None ( -1 )	4950 ( None )	
+
+91  :  36787 ( None )	760 ( None )	
+
+92  :  None ( 1 )	None ( -1 )	None ( 1 )	8629 ( None )	
+
+93  :  None ( -1 )	1285 ( None )	
+
+94  :  77 ( None )	2751 ( None )	
+
+95  :  None ( -1 )	None ( 1 )	None ( -1 )	1173 ( None )	
+
+96  :  None ( 1 )	21692 ( None )	
+
+97  :  None ( 1 )	1596 ( None )	
+
+98  :  None ( 1 )	6111 ( None )	
+
+99  :  None ( 1 )	2256 ( None )	
+
+100  :  None ( 1 )	2740 ( None )	
+
+101  :  None ( 1 )	3533 ( None )	
+
+102  :  None ( 1 )	3485 ( None )	
+
+103  :  None ( 1 )	2006 ( None )	
+
+104  :  None ( 1 )	4265 ( None )	
+
+105  :  None ( 1 )	691 ( None )	
+
+106  :  5594 ( None )	53479 ( None )	
+
+107  :  None ( 1 )	77 ( None )	None ( 1 )	36515 ( None )	
+
+108  :  None ( 1 )	None ( -1 )	None ( 1 )	5883 ( None )	
+
+109  :  None ( 1 )	503 ( None )	
+
+110  :  20844 ( None )	21609 ( None )	
+
+111  :  None ( 1 )	79382 ( None )	None ( 1 )	17947 ( None )	
+
+112  :  None ( 1 )	None ( 1 )	None ( 1 )	22803 ( None )	
+
+113  :  None ( 1 )	31861 ( None )	
+
+114  :  None ( 1 )	422 ( None )	
+
+115  :  77 ( None )	8749 ( None )	
+
+116  :  None ( 1 )	3671 ( None )	None ( 1 )	16801 ( None )	
+
+117  :  None ( 1 )	None ( -1 )	None ( 1 )	9978 ( None )	
+
+118  :  None ( 1 )	44445 ( None )	
+
+119  :  None ( 1 )	4755 ( None )	
+
+120  :  None ( 1 )	50989 ( None )	
+
+121  :  None ( 1 )	19241 ( None )	
+
+122  :  None ( 1 )	9721 ( None )	
+
+123  :  None ( 1 )	65038 ( None )	
+
+124  :  None ( 1 )	10687 ( None )	
+
+125  :  None ( 1 )	1103 ( None )	
+
+126  :  12962 ( None )	3564 ( None )	
+
+127  :  None ( 1 )	None ( -1 )	None ( 1 )	41535 ( None )	
+
+128  :  None ( 1 )	4152 ( None )	
+
+129  :  None ( 1 )	1197 ( None )	
+
+130  :  None ( 1 )	57524 ( None )	
+
+131  :  None ( 1 )	1289 ( None )	
+
+132  :  None ( 1 )	29219 ( None )	
+
+133  :  None ( 1 )	1606 ( None )	
+
+134  :  None ( 1 )	64094 ( None )	
+
+135  :  None ( 1 )	17756 ( None )	
+
+136  :  None ( 1 )	1956 ( None )	
+
+137  :  None ( 1 )	6689 ( None )	
+
+138  :  None ( 1 )	39407 ( None )	
+
+139  :  None ( 1 )	61366 ( None )	
+
+140  :  None ( 1 )	8699 ( None )	
+
+141  :  None ( 1 )	41142 ( None )	
+
+142  :  None ( 1 )	35311 ( None )	
+
+143  :  None ( 1 )	18115 ( None )	
+
+144  :  None ( 1 )	37711 ( None )	
+
+145  :  None ( 1 )	54972 ( None )	
+
+146  :  None ( 1 )	3451 ( None )	
+
+147  :  None ( 1 )	8076 ( None )	
+
+148  :  None ( 1 )	622 ( None )	
+
+149  :  77 ( None )	77 ( None )	
+
+150  :  None ( 1 )	None ( 1 )	870 ( None )	870 ( None )	
+
+151  :  None ( -1 )	None ( 1 )	None ( 1 )	None ( 1 )	
+
+0  :  427 ( None )	
+
+1  :  870 ( -1 )	240 ( None )	
+
+2  :  6191 ( -1 )	368 ( 1 )	
+
+Reading Files
+Done.
+0
+./train/train_dataset.txt  error:  0.412
+Reading Files
+Done.
+0
+./test/test_dataset.txt  error:  0.401

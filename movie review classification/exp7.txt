@@ -1,0 +1,24 @@
+Reading Files
+Done.
+620
+Reading Files
+Done.
+0
+Number Of tree:  1
+train error:  0.158
+test error:  0.37
+Number Of tree:  5
+train error:  0.143
+test error:  0.371
+Number Of tree:  10
+train error:  0.145
+test error:  0.357
+Number Of tree:  15
+train error:  0.144
+test error:  0.371
+Number Of tree:  20
+train error:  0.145
+test error:  0.364
+Number Of tree:  25
+train error:  0.147
+test error:  0.364

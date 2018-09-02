@@ -1,0 +1,78 @@
+Reading Files
+Done.
+714
+Reading Files
+Done.
+0
+0  :  1327 ( None )	
+
+1  :  None ( -1 )	115 ( None )	
+
+2  :  1844 ( None )	427 ( None )	
+
+3  :  None ( -1 )	1479 ( None )	5427 ( None )	3023 ( None )	
+
+4  :  None ( -1 )	953 ( None )	None ( 1 )	904 ( None )	None ( 1 )	562 ( None )	
+
+5  :  523 ( None )	139 ( None )	None ( 1 )	188 ( None )	714 ( None )	53 ( None )	
+
+6  :  None ( 1 )	2280 ( None )	137 ( None )	121 ( None )	267 ( None )	3649 ( None )	592 ( None )	3275 ( None )	1421 ( None )	240 ( None )	
+
+7  :  None ( 1 )	None ( -1 )	649 ( None )	172 ( None )	None ( 1 )	64 ( None )	None ( 1 )	146 ( None )	None ( 1 )	None ( -1 )	None ( -1 )	None ( 1 )	None ( 1 )	518 ( None )	None ( 1 )	5677 ( None )	343 ( None )	525 ( None )	
+
+8  :  None ( -1 )	None ( 1 )	1472 ( None )	3744 ( None )	480 ( None )	400 ( None )	None ( 1 )	None ( -1 )	1005 ( None )	None ( -1 )	None ( 1 )	1216 ( None )	None ( 1 )	None ( -1 )	309 ( None )	660 ( None )	
+
+9  :  None ( -1 )	None ( 1 )	None ( 1 )	None ( -1 )	None ( -1 )	282 ( None )	387 ( None )	2172 ( None )	None ( -1 )	None ( 1 )	None ( 1 )	512 ( None )	None ( 1 )	None ( -1 )	17 ( None )	365 ( None )	
+
+10  :  None ( 1 )	183 ( None )	None ( 1 )	None ( -1 )	None ( -1 )	None ( 1 )	167 ( None )	22 ( None )	None ( -1 )	None ( 1 )	None ( 1 )	751 ( None )	
+
+11  :  258 ( None )	657 ( None )	230 ( None )	None ( 1 )	722 ( None )	243 ( None )	None ( -1 )	459 ( None )	
+
+12  :  3744 ( None )	None ( -1 )	None ( -1 )	319 ( None )	None ( 1 )	None ( -1 )	582 ( None )	2712 ( None )	None ( 1 )	278 ( None )	None ( 1 )	1161 ( None )	
+
+13  :  None ( -1 )	None ( 1 )	None ( -1 )	24 ( None )	None ( -1 )	126 ( None )	None ( 1 )	2153 ( None )	None ( -1 )	368 ( None )	None ( -1 )	217 ( None )	
+
+14  :  None ( 1 )	155 ( None )	None ( 1 )	149 ( None )	None ( 1 )	760 ( None )	None ( -1 )	534 ( None )	882 ( None )	204 ( None )	
+
+15  :  None ( 1 )	None ( -1 )	None ( -1 )	270 ( None )	None ( -1 )	433 ( None )	None ( -1 )	467 ( None )	None ( 1 )	None ( -1 )	None ( 1 )	344 ( None )	
+
+16  :  None ( -1 )	319 ( None )	225 ( None )	526 ( None )	None ( -1 )	703 ( None )	1074 ( None )	382 ( None )	
+
+17  :  None ( -1 )	None ( 1 )	None ( -1 )	None ( 1 )	None ( -1 )	607 ( None )	None ( -1 )	166 ( None )	None ( 1 )	None ( -1 )	62 ( None )	1886 ( None )	
+
+18  :  821 ( None )	393 ( None )	4098 ( None )	121 ( None )	None ( -1 )	None ( 1 )	None ( -1 )	267 ( None )	
+
+19  :  None ( -1 )	None ( 1 )	None ( -1 )	644 ( None )	None ( 1 )	None ( -1 )	87 ( None )	230 ( None )	66 ( None )	652 ( None )	
+
+20  :  821 ( None )	3011 ( None )	None ( 1 )	None ( -1 )	None ( -1 )	None ( 1 )	None ( -1 )	None ( 1 )	None ( -1 )	105 ( None )	
+
+21  :  818 ( None )	None ( 1 )	None ( 1 )	1026 ( None )	None ( 1 )	49 ( None )	
+
+22  :  None ( 1 )	None ( -1 )	None ( 1 )	171 ( None )	586 ( None )	278 ( None )	
+
+23  :  65 ( None )	123 ( None )	None ( -1 )	2083 ( None )	None ( -1 )	464 ( None )	
+
+24  :  359 ( None )	None ( -1 )	None ( -1 )	714 ( None )	None ( -1 )	None ( 1 )	None ( -1 )	57 ( None )	
+
+25  :  None ( -1 )	1270 ( None )	3087 ( None )	37 ( None )	None ( 1 )	18 ( None )	
+
+26  :  None ( -1 )	None ( 1 )	None ( -1 )	None ( 1 )	183 ( None )	135 ( None )	None ( 1 )	20 ( None )	
+
+27  :  142 ( None )	None ( -1 )	None ( 1 )	567 ( None )	97 ( None )	None ( -1 )	
+
+28  :  None ( 1 )	None ( -1 )	None ( 1 )	None ( -1 )	None ( -1 )	None ( 1 )	
+
+0  :  1327 ( None )	
+
+1  :  None ( -1 )	115 ( None )	
+
+2  :  1844 ( 1 )	427 ( -1 )	
+
+Reading Files
+Done.
+0
+./train/train_dataset.txt  error:  0.409
+Reading Files
+Done.
+0
+./test/test_dataset.txt  error:  0.433

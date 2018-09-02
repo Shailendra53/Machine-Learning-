@@ -1,0 +1,26 @@
+Reading Files
+Done.
+671
+671
+3334
+Reading Files
+Done.
+0
+Number Of tree:  1
+train error:  0.956
+test error:  0.346
+Number Of tree:  5
+train error:  0.954
+test error:  0.37
+Number Of tree:  10
+train error:  0.955
+test error:  0.373
+Number Of tree:  15
+train error:  0.958
+test error:  0.367
+Number Of tree:  20
+train error:  0.958
+test error:  0.351
+Number Of tree:  25
+train error:  0.957
+test error:  0.368

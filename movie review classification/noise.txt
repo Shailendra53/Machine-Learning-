@@ -1,0 +1,2041 @@
+Reading Files
+Done.
+713
+start making tree
+0  :  427 	 None	
+
+1  :  870 	 None	373 	 None	
+
+2  :  None 	 1	3533 	 None	1179 	 None	6191 	 None	
+
+3  :  None 	 1	856 	 None	None 	 -1	1844 	 None	None 	 1	1270 	 None	
+
+4  :  None 	 -1	734 	 None	None 	 -1	906 	 None	10125 	 None	2235 	 None	
+
+5  :  813 	 None	9344 	 None	None 	 -1	5466 	 None	None 	 1	503 	 None	None 	 -1	3424 	 None	
+
+6  :  None 	 1	622 	 None	None 	 1	22767 	 None	None 	 -1	1627 	 None	5046 	 None	None 	 -1	None 	 -1	2299 	 None	
+
+7  :  None 	 1	None 	 -1	None 	 1	19427 	 None	None 	 -1	3152 	 None	None 	 -1	None 	 1	None 	 -1	18899 	 None	
+
+8  :  None 	 1	691 	 None	None 	 -1	1285 	 None	None 	 1	3111 	 None	
+
+9  :  584 	 None	30190 	 None	None 	 -1	1014 	 None	None 	 -1	5078 	 None	
+
+10  :  None 	 -1	8224 	 None	None 	 1	2443 	 None	None 	 -1	4620 	 None	None 	 -1	3953 	 None	
+
+11  :  None 	 -1	44638 	 None	None 	 1	9168 	 None	None 	 -1	955 	 None	None 	 -1	2290 	 None	
+
+12  :  None 	 -1	None 	 1	None 	 1	5679 	 None	None 	 -1	8109 	 None	21692 	 None	2083 	 None	
+
+13  :  1707 	 None	328 	 None	None 	 1	4953 	 None	None 	 1	None 	 -1	2187 	 None	3850 	 None	
+
+14  :  None 	 1	None 	 -1	77 	 None	422 	 None	None 	 1	7975 	 None	None 	 1	12919 	 None	None 	 -1	7814 	 None	
+
+15  :  None 	 -1	344 	 None	None 	 -1	363 	 None	None 	 1	1596 	 None	None 	 1	None 	 -1	None 	 -1	3123 	 None	
+
+16  :  None 	 -1	953 	 None	None 	 -1	2427 	 None	None 	 1	7233 	 None	None 	 1	2068 	 None	
+
+17  :  None 	 -1	2846 	 None	None 	 -1	240 	 None	None 	 1	9746 	 None	4400 	 None	2532 	 None	
+
+18  :  None 	 -1	None 	 1	None 	 -1	760 	 None	None 	 1	7334 	 None	None 	 1	None 	 -1	67104 	 None	1897 	 None	
+
+19  :  None 	 -1	368 	 None	None 	 1	3969 	 None	None 	 -1	12720 	 None	3500 	 None	1197 	 None	
+
+20  :  None 	 -1	1456 	 None	None 	 1	2252 	 None	None 	 -1	8482 	 None	None 	 1	None 	 -1	14274 	 None	11095 	 None	
+
+21  :  None 	 -1	897 	 None	None 	 1	3380 	 None	None 	 -1	4388 	 None	None 	 1	None 	 -1	None 	 -1	7670 	 None	
+
+22  :  None 	 -1	29456 	 None	None 	 1	5472 	 None	None 	 -1	13772 	 None	None 	 -1	4111 	 None	
+
+23  :  None 	 -1	5940 	 None	None 	 1	45290 	 None	None 	 -1	None 	 -1	None 	 -1	9860 	 None	
+
+24  :  None 	 -1	6040 	 None	None 	 1	9379 	 None	None 	 -1	6999 	 None	
+
+25  :  None 	 -1	2612 	 None	None 	 1	26207 	 None	None 	 -1	5334 	 None	
+
+26  :  None 	 -1	14805 	 None	None 	 -1	1359 	 None	None 	 -1	3379 	 None	
+
+27  :  None 	 -1	None 	 -1	None 	 -1	10860 	 None	None 	 -1	4323 	 None	
+
+28  :  None 	 -1	6405 	 None	None 	 -1	1289 	 None	
+
+29  :  None 	 -1	43219 	 None	9440 	 None	2362 	 None	
+
+30  :  None 	 -1	11020 	 None	None 	 1	1103 	 None	None 	 -1	19767 	 None	
+
+31  :  None 	 -1	2740 	 None	None 	 -1	5207 	 None	None 	 -1	12926 	 None	
+
+32  :  None 	 -1	4265 	 None	None 	 -1	34367 	 None	None 	 -1	8299 	 None	
+
+33  :  None 	 -1	4347 	 None	None 	 -1	1893 	 None	None 	 -1	6735 	 None	
+
+34  :  None 	 -1	6277 	 None	None 	 -1	5885 	 None	None 	 -1	6329 	 None	
+
+35  :  None 	 -1	4280 	 None	None 	 -1	None 	 1	None 	 -1	3889 	 None	
+
+36  :  None 	 -1	971 	 None	None 	 -1	3182 	 None	
+
+37  :  None 	 -1	9653 	 None	None 	 -1	19188 	 None	
+
+38  :  None 	 -1	5883 	 None	None 	 -1	3055 	 None	
+
+39  :  None 	 -1	6174 	 None	None 	 -1	3682 	 None	
+
+40  :  None 	 -1	2421 	 None	None 	 -1	5009 	 None	
+
+41  :  None 	 -1	3671 	 None	None 	 -1	1173 	 None	
+
+42  :  None 	 -1	36037 	 None	27849 	 None	29719 	 None	
+
+43  :  None 	 -1	13340 	 None	None 	 1	37369 	 None	None 	 1	29344 	 None	
+
+44  :  None 	 -1	42704 	 None	None 	 1	24028 	 None	None 	 1	3939 	 None	
+
+45  :  None 	 -1	6821 	 None	None 	 1	3538 	 None	None 	 1	3485 	 None	
+
+46  :  None 	 -1	27822 	 None	None 	 -1	40084 	 None	None 	 1	2147 	 None	
+
+47  :  None 	 -1	None 	 1	None 	 -1	22891 	 None	10344 	 None	3284 	 None	
+
+48  :  None 	 -1	31007 	 None	None 	 -1	None 	 1	25622 	 None	2522 	 None	
+
+49  :  None 	 -1	None 	 -1	None 	 1	None 	 -1	4789 	 None	2996 	 None	
+
+50  :  None 	 1	None 	 -1	None 	 1	28813 	 None	
+
+51  :  None 	 1	6952 	 None	
+
+52  :  None 	 -1	20844 	 None	
+
+53  :  None 	 1	6111 	 None	
+
+54  :  None 	 1	26018 	 None	
+
+55  :  None 	 -1	28339 	 None	
+
+56  :  None 	 -1	7943 	 None	
+
+57  :  None 	 -1	22440 	 None	
+
+58  :  None 	 -1	75301 	 None	
+
+59  :  None 	 -1	48296 	 None	
+
+60  :  None 	 -1	6395 	 None	
+
+61  :  None 	 -1	11720 	 None	
+
+62  :  None 	 -1	15595 	 None	
+
+63  :  None 	 -1	5686 	 None	
+
+64  :  None 	 -1	6862 	 None	
+
+65  :  None 	 -1	79232 	 None	
+
+66  :  None 	 -1	23686 	 None	
+
+67  :  None 	 -1	13048 	 None	
+
+68  :  None 	 -1	37756 	 None	
+
+69  :  None 	 -1	52732 	 None	
+
+70  :  None 	 -1	14971 	 None	
+
+71  :  None 	 -1	20437 	 None	
+
+72  :  None 	 -1	16227 	 None	
+
+73  :  None 	 -1	11429 	 None	
+
+74  :  None 	 -1	9079 	 None	
+
+75  :  None 	 -1	4933 	 None	
+
+76  :  None 	 -1	3434 	 None	
+
+77  :  None 	 -1	11005 	 None	
+
+78  :  None 	 -1	20929 	 None	
+
+79  :  None 	 -1	20366 	 None	
+
+80  :  None 	 -1	21043 	 None	
+
+81  :  None 	 -1	19687 	 None	
+
+82  :  None 	 -1	27157 	 None	
+
+83  :  None 	 -1	48518 	 None	
+
+84  :  None 	 -1	26837 	 None	
+
+85  :  None 	 -1	44820 	 None	
+
+86  :  None 	 -1	12023 	 None	
+
+87  :  None 	 -1	46035 	 None	
+
+88  :  None 	 -1	21141 	 None	
+
+89  :  None 	 -1	40452 	 None	
+
+90  :  None 	 -1	7967 	 None	
+
+91  :  None 	 -1	28264 	 None	
+
+92  :  None 	 -1	14354 	 None	
+
+93  :  None 	 -1	37839 	 None	
+
+94  :  None 	 -1	22136 	 None	
+
+95  :  None 	 -1	62943 	 None	
+
+96  :  None 	 -1	37246 	 None	
+
+97  :  None 	 -1	18910 	 None	
+
+98  :  None 	 -1	19782 	 None	
+
+99  :  None 	 -1	30255 	 None	
+
+100  :  None 	 -1	2027 	 None	
+
+101  :  None 	 1	22679 	 None	
+
+102  :  None 	 -1	17638 	 None	
+
+103  :  None 	 -1	12776 	 None	
+
+104  :  None 	 -1	58252 	 None	
+
+105  :  None 	 -1	10522 	 None	
+
+106  :  None 	 -1	7937 	 None	
+
+107  :  None 	 1	9937 	 None	
+
+108  :  None 	 -1	7262 	 None	
+
+109  :  None 	 -1	14405 	 None	
+
+110  :  None 	 -1	19451 	 None	
+
+111  :  None 	 -1	20131 	 None	
+
+112  :  None 	 -1	26182 	 None	
+
+113  :  None 	 -1	8161 	 None	
+
+114  :  None 	 -1	10686 	 None	
+
+115  :  None 	 -1	8278 	 None	
+
+116  :  None 	 -1	48075 	 None	
+
+117  :  None 	 -1	9992 	 None	
+
+118  :  None 	 -1	17770 	 None	
+
+119  :  None 	 -1	20983 	 None	
+
+120  :  None 	 -1	32571 	 None	
+
+121  :  None 	 -1	30482 	 None	
+
+122  :  None 	 -1	9156 	 None	
+
+123  :  None 	 -1	32859 	 None	
+
+124  :  None 	 -1	29299 	 None	
+
+125  :  None 	 -1	76515 	 None	
+
+126  :  None 	 -1	3524 	 None	
+
+127  :  None 	 -1	62439 	 None	
+
+128  :  None 	 -1	12349 	 None	
+
+129  :  None 	 -1	5987 	 None	
+
+130  :  None 	 -1	10327 	 None	
+
+131  :  None 	 -1	10301 	 None	
+
+132  :  None 	 -1	7451 	 None	
+
+133  :  None 	 -1	19994 	 None	
+
+134  :  None 	 -1	2289 	 None	
+
+135  :  76261 	 None	2278 	 None	
+
+136  :  None 	 1	None 	 -1	70126 	 None	3456 	 None	
+
+137  :  None 	 1	None 	 -1	9158 	 None	2256 	 None	
+
+138  :  None 	 1	None 	 -1	None 	 1	5326 	 None	
+
+139  :  None 	 1	23468 	 None	
+
+140  :  None 	 1	49812 	 None	
+
+141  :  None 	 1	6650 	 None	
+
+142  :  None 	 1	41534 	 None	
+
+143  :  None 	 1	8360 	 None	
+
+144  :  None 	 1	5245 	 None	
+
+145  :  None 	 1	2120 	 None	
+
+146  :  None 	 1	3942 	 None	
+
+147  :  None 	 1	2094 	 None	
+
+148  :  None 	 1	5594 	 None	
+
+149  :  None 	 1	8699 	 None	
+
+150  :  None 	 1	1606 	 None	
+
+151  :  None 	 1	32341 	 None	
+
+152  :  None 	 1	2751 	 None	
+
+153  :  6839 	 None	84254 	 None	
+
+154  :  None 	 1	None 	 -1	None 	 1	19403 	 None	
+
+155  :  None 	 1	27462 	 None	
+
+156  :  None 	 1	60311 	 None	
+
+157  :  None 	 1	11711 	 None	
+
+158  :  None 	 1	54720 	 None	
+
+159  :  None 	 1	2075 	 None	
+
+160  :  None 	 1	5780 	 None	
+
+161  :  None 	 1	83686 	 None	
+
+162  :  None 	 1	53479 	 None	
+
+163  :  None 	 1	34374 	 None	
+
+164  :  None 	 1	19293 	 None	
+
+165  :  None 	 1	39407 	 None	
+
+166  :  None 	 1	25831 	 None	
+
+167  :  None 	 1	3702 	 None	
+
+168  :  None 	 1	21613 	 None	
+
+169  :  None 	 1	7579 	 None	
+
+170  :  None 	 1	18115 	 None	
+
+171  :  None 	 1	22803 	 None	
+
+172  :  None 	 1	23139 	 None	
+
+173  :  None 	 1	22443 	 None	
+
+174  :  None 	 1	78030 	 None	
+
+175  :  None 	 1	36787 	 None	
+
+176  :  None 	 1	19755 	 None	
+
+177  :  None 	 1	16801 	 None	
+
+178  :  None 	 1	17947 	 None	
+
+179  :  None 	 1	67985 	 None	
+
+180  :  None 	 1	4222 	 None	
+
+181  :  None 	 -1	10654 	 None	
+
+182  :  None 	 1	7813 	 None	
+
+183  :  None 	 1	27449 	 None	
+
+184  :  None 	 1	8605 	 None	
+
+185  :  None 	 1	59483 	 None	
+
+186  :  None 	 1	36515 	 None	
+
+187  :  None 	 1	44948 	 None	
+
+188  :  None 	 1	47289 	 None	
+
+189  :  None 	 1	58085 	 None	
+
+190  :  None 	 1	2922 	 None	
+
+191  :  None 	 1	4152 	 None	
+
+192  :  None 	 1	44472 	 None	
+
+193  :  None 	 1	12962 	 None	
+
+194  :  None 	 1	27503 	 None	
+
+195  :  None 	 1	5725 	 None	
+
+196  :  None 	 -1	6217 	 None	
+
+197  :  None 	 1	34072 	 None	
+
+198  :  None 	 1	2694 	 None	
+
+199  :  None 	 -1	5845 	 None	
+
+200  :  None 	 1	46638 	 None	
+
+201  :  None 	 1	65038 	 None	
+
+202  :  None 	 1	14591 	 None	
+
+203  :  None 	 1	6782 	 None	
+
+204  :  None 	 1	18277 	 None	
+
+205  :  None 	 1	8749 	 None	
+
+206  :  None 	 1	9862 	 None	
+
+207  :  None 	 1	41142 	 None	
+
+208  :  None 	 1	9419 	 None	
+
+209  :  None 	 1	8297 	 None	
+
+210  :  None 	 1	8076 	 None	
+
+211  :  None 	 1	31861 	 None	
+
+212  :  None 	 1	9721 	 None	
+
+213  :  None 	 1	23992 	 None	
+
+214  :  None 	 1	35311 	 None	
+
+215  :  None 	 1	84087 	 None	
+
+216  :  None 	 1	21978 	 None	
+
+217  :  None 	 1	17948 	 None	
+
+218  :  None 	 1	54972 	 None	
+
+219  :  None 	 1	41535 	 None	
+
+220  :  None 	 1	37711 	 None	
+
+221  :  None 	 1	44445 	 None	
+
+222  :  None 	 1	29219 	 None	
+
+223  :  None 	 1	61025 	 None	
+
+224  :  None 	 1	3451 	 None	
+
+225  :  None 	 1	32018 	 None	
+
+226  :  None 	 1	19241 	 None	
+
+227  :  None 	 1	3564 	 None	
+
+228  :  None 	 1	3628 	 None	
+
+229  :  None 	 1	55191 	 None	
+
+230  :  None 	 1	79054 	 None	
+
+231  :  None 	 1	79382 	 None	
+
+232  :  None 	 1	8785 	 None	
+
+233  :  None 	 1	61366 	 None	
+
+234  :  None 	 1	28629 	 None	
+
+235  :  None 	 1	8629 	 None	
+
+236  :  None 	 -1	64094 	 None	
+
+237  :  None 	 1	2563 	 None	
+
+238  :  None 	 1	6689 	 None	
+
+239  :  None 	 1	8586 	 None	
+
+240  :  None 	 1	1956 	 None	
+
+241  :  11904 	 None	4950 	 None	
+
+242  :  None 	 1	4755 	 None	None 	 -1	12752 	 None	
+
+243  :  None 	 -1	None 	 -1	None 	 -1	2006 	 None	
+
+244  :  None 	 -1	3136 	 None	
+
+245  :  None 	 1	None 	 1	
+
+Reading Files
+Done.
+0
+./train/train_dataset.txt  error:  0.12
+Reading Files
+Done.
+0
+./test/test_dataset.txt  error:  0.351
+start making tree
+0  :  427 	 None	
+
+1  :  3533 	 None	373 	 None	
+
+2  :  None 	 1	870 	 None	1179 	 None	6191 	 None	
+
+3  :  None 	 1	856 	 None	None 	 -1	906 	 None	None 	 1	1270 	 None	
+
+4  :  None 	 -1	734 	 None	None 	 -1	1844 	 None	10125 	 None	2235 	 None	
+
+5  :  622 	 None	22767 	 None	None 	 -1	3152 	 None	None 	 1	2709 	 None	None 	 -1	3424 	 None	
+
+6  :  None 	 1	813 	 None	None 	 1	2443 	 None	None 	 -1	1014 	 None	None 	 -1	3953 	 None	None 	 -1	2299 	 None	
+
+7  :  None 	 1	None 	 -1	None 	 1	29344 	 None	None 	 -1	1627 	 None	None 	 -1	5207 	 None	None 	 -1	18899 	 None	
+
+8  :  None 	 1	691 	 None	None 	 -1	4620 	 None	None 	 -1	4666 	 None	None 	 1	3111 	 None	
+
+9  :  584 	 None	30190 	 None	None 	 -1	5466 	 None	None 	 -1	11884 	 None	None 	 -1	5078 	 None	
+
+10  :  None 	 -1	1285 	 None	None 	 1	19427 	 None	None 	 -1	3500 	 None	None 	 -1	5749 	 None	None 	 -1	2290 	 None	
+
+11  :  None 	 -1	328 	 None	None 	 1	9168 	 None	None 	 1	7975 	 None	None 	 -1	971 	 None	21692 	 None	2083 	 None	
+
+12  :  None 	 -1	None 	 1	None 	 1	5679 	 None	None 	 1	28121 	 None	None 	 -1	49064 	 None	None 	 1	None 	 -1	2187 	 None	2068 	 None	
+
+13  :  1707 	 None	422 	 None	None 	 1	3284 	 None	None 	 -1	12029 	 None	None 	 1	2919 	 None	4400 	 None	7814 	 None	
+
+14  :  None 	 1	None 	 -1	None 	 -1	240 	 None	None 	 1	8109 	 None	None 	 -1	8586 	 None	None 	 1	None 	 -1	None 	 1	None 	 -1	None 	 -1	3850 	 None	
+
+15  :  None 	 -1	2427 	 None	None 	 1	3969 	 None	None 	 -1	44514 	 None	None 	 -1	3123 	 None	
+
+16  :  None 	 -1	363 	 None	None 	 1	7233 	 None	None 	 -1	None 	 1	None 	 1	1897 	 None	
+
+17  :  None 	 -1	760 	 None	None 	 1	23377 	 None	45579 	 None	2532 	 None	
+
+18  :  None 	 -1	344 	 None	None 	 1	9379 	 None	None 	 1	None 	 -1	2006 	 None	1197 	 None	
+
+19  :  None 	 -1	955 	 None	None 	 1	5472 	 None	None 	 -1	1956 	 None	14274 	 None	5334 	 None	
+
+20  :  None 	 -1	897 	 None	None 	 1	2256 	 None	None 	 -1	12720 	 None	None 	 1	None 	 -1	None 	 -1	6999 	 None	
+
+21  :  None 	 -1	14805 	 None	None 	 -1	45290 	 None	None 	 -1	13772 	 None	None 	 -1	1289 	 None	
+
+22  :  None 	 -1	26040 	 None	None 	 1	3380 	 None	None 	 -1	4388 	 None	2563 	 None	11095 	 None	
+
+23  :  None 	 -1	503 	 None	None 	 1	2846 	 None	None 	 -1	None 	 -1	None 	 1	1103 	 None	None 	 -1	9860 	 None	
+
+24  :  None 	 -1	368 	 None	None 	 1	2252 	 None	None 	 -1	3524 	 None	None 	 -1	4111 	 None	
+
+25  :  None 	 -1	1456 	 None	None 	 1	9419 	 None	None 	 -1	5885 	 None	None 	 -1	3379 	 None	
+
+26  :  None 	 -1	3450 	 None	None 	 -1	5908 	 None	None 	 -1	34367 	 None	None 	 -1	6735 	 None	
+
+27  :  None 	 -1	2612 	 None	None 	 -1	37056 	 None	None 	 -1	5987 	 None	None 	 -1	2362 	 None	
+
+28  :  None 	 -1	5940 	 None	None 	 -1	7670 	 None	None 	 -1	1893 	 None	None 	 -1	29299 	 None	
+
+29  :  None 	 -1	77 	 None	None 	 -1	54539 	 None	None 	 -1	None 	 1	None 	 -1	3182 	 None	
+
+30  :  None 	 1	None 	 -1	None 	 -1	27822 	 None	None 	 -1	5009 	 None	
+
+31  :  None 	 -1	8224 	 None	None 	 -1	19767 	 None	
+
+32  :  None 	 -1	19581 	 None	None 	 -1	12926 	 None	
+
+33  :  None 	 -1	4265 	 None	None 	 -1	6329 	 None	
+
+34  :  None 	 -1	3237 	 None	None 	 -1	3682 	 None	
+
+35  :  None 	 -1	26207 	 None	None 	 -1	19188 	 None	
+
+36  :  None 	 -1	9992 	 None	None 	 -1	3889 	 None	
+
+37  :  None 	 -1	4323 	 None	None 	 -1	3055 	 None	
+
+38  :  None 	 -1	24049 	 None	None 	 -1	1173 	 None	
+
+39  :  None 	 -1	36037 	 None	8785 	 None	3939 	 None	
+
+40  :  None 	 -1	2421 	 None	None 	 1	48382 	 None	None 	 1	20844 	 None	
+
+41  :  None 	 -1	42704 	 None	None 	 1	37369 	 None	None 	 1	3485 	 None	
+
+42  :  None 	 -1	13340 	 None	None 	 1	8076 	 None	None 	 1	2027 	 None	
+
+43  :  None 	 -1	10860 	 None	None 	 -1	22891 	 None	30255 	 None	19241 	 None	
+
+44  :  None 	 -1	4280 	 None	None 	 -1	1814 	 None	None 	 -1	None 	 1	None 	 1	6952 	 None	
+
+45  :  None 	 -1	11020 	 None	None 	 -1	40084 	 None	None 	 -1	2996 	 None	
+
+46  :  None 	 -1	1606 	 None	None 	 -1	None 	 -1	None 	 1	6111 	 None	
+
+47  :  None 	 -1	6821 	 None	None 	 1	29719 	 None	
+
+48  :  None 	 -1	953 	 None	None 	 1	2522 	 None	
+
+49  :  None 	 1	None 	 1	4789 	 None	7459 	 None	
+
+50  :  None 	 1	None 	 -1	None 	 -1	26837 	 None	
+
+51  :  None 	 -1	9732 	 None	
+
+52  :  None 	 -1	7943 	 None	
+
+53  :  None 	 -1	32216 	 None	
+
+54  :  None 	 -1	19010 	 None	
+
+55  :  None 	 -1	50739 	 None	
+
+56  :  None 	 -1	38950 	 None	
+
+57  :  None 	 -1	12023 	 None	
+
+58  :  None 	 -1	79232 	 None	
+
+59  :  None 	 -1	26182 	 None	
+
+60  :  None 	 -1	12349 	 None	
+
+61  :  None 	 -1	12776 	 None	
+
+62  :  None 	 -1	32571 	 None	
+
+63  :  None 	 -1	10363 	 None	
+
+64  :  None 	 -1	20983 	 None	
+
+65  :  None 	 -1	8278 	 None	
+
+66  :  None 	 -1	37756 	 None	
+
+67  :  None 	 -1	9079 	 None	
+
+68  :  None 	 -1	48075 	 None	
+
+69  :  None 	 -1	9344 	 None	
+
+70  :  None 	 1	48296 	 None	
+
+71  :  None 	 -1	17638 	 None	
+
+72  :  None 	 -1	23686 	 None	
+
+73  :  None 	 -1	62943 	 None	
+
+74  :  None 	 -1	25477 	 None	
+
+75  :  None 	 -1	63102 	 None	
+
+76  :  None 	 -1	15458 	 None	
+
+77  :  None 	 -1	20131 	 None	
+
+78  :  None 	 -1	2467 	 None	
+
+79  :  None 	 -1	19782 	 None	
+
+80  :  None 	 -1	12314 	 None	
+
+81  :  None 	 -1	20366 	 None	
+
+82  :  None 	 -1	86588 	 None	
+
+83  :  None 	 -1	22136 	 None	
+
+84  :  None 	 -1	28339 	 None	
+
+85  :  None 	 -1	13048 	 None	
+
+86  :  None 	 -1	22679 	 None	
+
+87  :  None 	 -1	62439 	 None	
+
+88  :  None 	 -1	22340 	 None	
+
+89  :  None 	 -1	33767 	 None	
+
+90  :  None 	 -1	7262 	 None	
+
+91  :  None 	 -1	48518 	 None	
+
+92  :  None 	 -1	19451 	 None	
+
+93  :  None 	 -1	40452 	 None	
+
+94  :  None 	 -1	75301 	 None	
+
+95  :  None 	 -1	20929 	 None	
+
+96  :  None 	 -1	17476 	 None	
+
+97  :  None 	 -1	7909 	 None	
+
+98  :  None 	 -1	46035 	 None	
+
+99  :  None 	 -1	58252 	 None	
+
+100  :  None 	 -1	10327 	 None	
+
+101  :  None 	 -1	48100 	 None	
+
+102  :  None 	 -1	2147 	 None	
+
+103  :  None 	 1	6174 	 None	
+
+104  :  None 	 -1	3434 	 None	
+
+105  :  None 	 -1	37526 	 None	
+
+106  :  None 	 -1	7937 	 None	
+
+107  :  None 	 1	21043 	 None	
+
+108  :  None 	 -1	19994 	 None	
+
+109  :  None 	 -1	9937 	 None	
+
+110  :  None 	 -1	8161 	 None	
+
+111  :  None 	 -1	10301 	 None	
+
+112  :  None 	 -1	76515 	 None	
+
+113  :  None 	 -1	11429 	 None	
+
+114  :  None 	 -1	7967 	 None	
+
+115  :  None 	 -1	43686 	 None	
+
+116  :  None 	 -1	10686 	 None	
+
+117  :  None 	 -1	32859 	 None	
+
+118  :  None 	 -1	6862 	 None	
+
+119  :  None 	 -1	7451 	 None	
+
+120  :  None 	 -1	6405 	 None	
+
+121  :  None 	 -1	7662 	 None	
+
+122  :  None 	 -1	37246 	 None	
+
+123  :  None 	 -1	18910 	 None	
+
+124  :  None 	 -1	28264 	 None	
+
+125  :  None 	 -1	37839 	 None	
+
+126  :  None 	 -1	21141 	 None	
+
+127  :  None 	 -1	16227 	 None	
+
+128  :  None 	 -1	26018 	 None	
+
+129  :  None 	 -1	44820 	 None	
+
+130  :  None 	 -1	9156 	 None	
+
+131  :  None 	 -1	15987 	 None	
+
+132  :  None 	 -1	17770 	 None	
+
+133  :  None 	 -1	3671 	 None	
+
+134  :  4950 	 None	2278 	 None	
+
+135  :  None 	 -1	None 	 -1	70126 	 None	2289 	 None	
+
+136  :  None 	 1	None 	 -1	76261 	 None	3456 	 None	
+
+137  :  None 	 1	None 	 -1	9158 	 None	3628 	 None	
+
+138  :  None 	 1	None 	 -1	None 	 1	5245 	 None	
+
+139  :  None 	 1	49812 	 None	
+
+140  :  None 	 1	2094 	 None	
+
+141  :  None 	 1	36787 	 None	
+
+142  :  None 	 1	8749 	 None	
+
+143  :  None 	 1	8360 	 None	
+
+144  :  None 	 1	32341 	 None	
+
+145  :  None 	 1	23468 	 None	
+
+146  :  None 	 1	5594 	 None	
+
+147  :  None 	 1	41534 	 None	
+
+148  :  None 	 1	8699 	 None	
+
+149  :  None 	 1	2751 	 None	
+
+150  :  6839 	 None	47289 	 None	
+
+151  :  None 	 1	None 	 -1	None 	 1	37711 	 None	
+
+152  :  None 	 1	61366 	 None	
+
+153  :  None 	 1	8536 	 None	
+
+154  :  None 	 1	35311 	 None	
+
+155  :  None 	 1	44948 	 None	
+
+156  :  None 	 1	6277 	 None	
+
+157  :  None 	 -1	25831 	 None	
+
+158  :  None 	 1	26942 	 None	
+
+159  :  None 	 1	21613 	 None	
+
+160  :  None 	 1	14155 	 None	
+
+161  :  None 	 1	87888 	 None	
+
+162  :  None 	 1	17948 	 None	
+
+163  :  None 	 1	78030 	 None	
+
+164  :  None 	 1	8556 	 None	
+
+165  :  None 	 1	17756 	 None	
+
+166  :  None 	 1	6217 	 None	
+
+167  :  None 	 1	39407 	 None	
+
+168  :  None 	 1	8890 	 None	
+
+169  :  None 	 1	79382 	 None	
+
+170  :  None 	 1	22803 	 None	
+
+171  :  None 	 1	58844 	 None	
+
+172  :  None 	 1	4222 	 None	
+
+173  :  None 	 -1	21978 	 None	
+
+174  :  None 	 1	27449 	 None	
+
+175  :  None 	 1	17947 	 None	
+
+176  :  None 	 1	34072 	 None	
+
+177  :  None 	 1	2694 	 None	
+
+178  :  None 	 -1	5845 	 None	
+
+179  :  None 	 1	23992 	 None	
+
+180  :  None 	 1	19293 	 None	
+
+181  :  None 	 1	60311 	 None	
+
+182  :  None 	 1	27462 	 None	
+
+183  :  None 	 1	3692 	 None	
+
+184  :  None 	 1	7619 	 None	
+
+185  :  None 	 1	10687 	 None	
+
+186  :  None 	 1	59483 	 None	
+
+187  :  None 	 1	61025 	 None	
+
+188  :  None 	 1	7813 	 None	
+
+189  :  None 	 1	54972 	 None	
+
+190  :  None 	 1	11711 	 None	
+
+191  :  None 	 1	2922 	 None	
+
+192  :  None 	 1	73964 	 None	
+
+193  :  None 	 1	11904 	 None	
+
+194  :  None 	 1	46381 	 None	
+
+195  :  None 	 1	14591 	 None	
+
+196  :  None 	 1	28813 	 None	
+
+197  :  None 	 1	16801 	 None	
+
+198  :  None 	 1	85937 	 None	
+
+199  :  None 	 1	65038 	 None	
+
+200  :  None 	 1	58085 	 None	
+
+201  :  None 	 1	36515 	 None	
+
+202  :  None 	 1	45846 	 None	
+
+203  :  None 	 1	41535 	 None	
+
+204  :  None 	 1	2120 	 None	
+
+205  :  None 	 1	12962 	 None	
+
+206  :  None 	 1	83686 	 None	
+
+207  :  None 	 1	21609 	 None	
+
+208  :  None 	 1	35825 	 None	
+
+209  :  None 	 1	5883 	 None	
+
+210  :  None 	 1	6040 	 None	
+
+211  :  None 	 1	3564 	 None	
+
+212  :  None 	 1	8297 	 None	
+
+213  :  None 	 1	3451 	 None	
+
+214  :  None 	 1	24028 	 None	
+
+215  :  None 	 1	4347 	 None	
+
+216  :  None 	 1	8605 	 None	
+
+217  :  None 	 1	64094 	 None	
+
+218  :  None 	 1	32018 	 None	
+
+219  :  None 	 1	41142 	 None	
+
+220  :  None 	 1	29219 	 None	
+
+221  :  None 	 1	6650 	 None	
+
+222  :  None 	 1	9862 	 None	
+
+223  :  None 	 1	18277 	 None	
+
+224  :  None 	 1	46638 	 None	
+
+225  :  None 	 1	2740 	 None	
+
+226  :  None 	 -1	19403 	 None	
+
+227  :  None 	 1	44445 	 None	
+
+228  :  None 	 1	79054 	 None	
+
+229  :  None 	 1	6689 	 None	
+
+230  :  None 	 1	9721 	 None	
+
+231  :  None 	 1	27503 	 None	
+
+232  :  None 	 1	5725 	 None	
+
+233  :  None 	 -1	28629 	 None	
+
+234  :  None 	 1	8629 	 None	
+
+235  :  None 	 -1	18115 	 None	
+
+236  :  None 	 1	9746 	 None	
+
+237  :  None 	 1	53479 	 None	
+
+238  :  None 	 1	5780 	 None	
+
+239  :  None 	 1	2075 	 None	
+
+240  :  None 	 1	12752 	 None	
+
+241  :  None 	 -1	1596 	 None	
+
+242  :  None 	 -1	3942 	 None	
+
+243  :  None 	 -1	3136 	 None	
+
+244  :  None 	 1	4755 	 None	
+
+245  :  None 	 1	1359 	 None	
+
+246  :  None 	 1	7334 	 None	
+
+247  :  None 	 1	None 	 1	
+
+Reading Files
+Done.
+0
+./train/train_dataset.txt  error:  0.125
+Reading Files
+Done.
+0
+./test/test_dataset.txt  error:  0.371
+start making tree
+0  :  427 	 None	
+
+1  :  3533 	 None	373 	 None	
+
+2  :  None 	 1	870 	 None	1179 	 None	6191 	 None	
+
+3  :  None 	 1	856 	 None	None 	 -1	906 	 None	None 	 1	1270 	 None	
+
+4  :  None 	 -1	734 	 None	None 	 -1	1844 	 None	10125 	 None	2235 	 None	
+
+5  :  813 	 None	9344 	 None	None 	 -1	6277 	 None	None 	 1	5883 	 None	None 	 -1	3424 	 None	
+
+6  :  None 	 1	622 	 None	None 	 1	22767 	 None	None 	 -1	3152 	 None	None 	 -1	5046 	 None	None 	 -1	18899 	 None	
+
+7  :  None 	 1	None 	 -1	None 	 1	7262 	 None	None 	 -1	1285 	 None	None 	 -1	5725 	 None	None 	 1	3111 	 None	
+
+8  :  None 	 1	19427 	 None	None 	 -1	1627 	 None	None 	 -1	1289 	 None	None 	 -1	5078 	 None	
+
+9  :  None 	 1	2299 	 None	None 	 -1	1014 	 None	None 	 -1	24567 	 None	None 	 -1	2068 	 None	
+
+10  :  None 	 1	2443 	 None	None 	 -1	4620 	 None	None 	 -1	11884 	 None	4400 	 None	2083 	 None	
+
+11  :  None 	 1	30190 	 None	None 	 -1	45290 	 None	None 	 -1	49064 	 None	None 	 1	None 	 -1	12919 	 None	3379 	 None	
+
+12  :  None 	 1	9168 	 None	None 	 1	25168 	 None	None 	 -1	13719 	 None	None 	 1	2187 	 None	None 	 -1	3889 	 None	
+
+13  :  None 	 1	5679 	 None	None 	 1	5472 	 None	None 	 -1	12029 	 None	None 	 1	None 	 -1	None 	 -1	4323 	 None	
+
+14  :  1707 	 None	691 	 None	None 	 1	2256 	 None	None 	 -1	3953 	 None	None 	 -1	5334 	 None	
+
+15  :  None 	 1	None 	 -1	955 	 None	328 	 None	None 	 -1	2846 	 None	None 	 -1	44514 	 None	None 	 -1	3123 	 None	
+
+16  :  None 	 1	None 	 -1	77 	 None	422 	 None	None 	 1	7233 	 None	None 	 -1	None 	 1	None 	 1	2532 	 None	
+
+17  :  None 	 -1	344 	 None	None 	 -1	363 	 None	None 	 1	9379 	 None	2006 	 None	1197 	 None	
+
+18  :  None 	 -1	953 	 None	None 	 -1	2427 	 None	None 	 1	1897 	 None	None 	 -1	8482 	 None	14274 	 None	6999 	 None	
+
+19  :  None 	 -1	3450 	 None	None 	 -1	760 	 None	None 	 1	2252 	 None	None 	 -1	5270 	 None	None 	 1	None 	 -1	None 	 -1	5009 	 None	
+
+20  :  None 	 -1	None 	 1	None 	 -1	240 	 None	None 	 1	3380 	 None	None 	 -1	13772 	 None	None 	 -1	11095 	 None	
+
+21  :  None 	 -1	368 	 None	None 	 1	28121 	 None	None 	 -1	4388 	 None	None 	 -1	4111 	 None	
+
+22  :  None 	 -1	1456 	 None	None 	 1	3284 	 None	None 	 -1	None 	 -1	None 	 -1	3182 	 None	
+
+23  :  None 	 -1	897 	 None	None 	 1	4953 	 None	None 	 -1	4666 	 None	
+
+24  :  None 	 -1	2612 	 None	None 	 1	8109 	 None	None 	 -1	3850 	 None	
+
+25  :  None 	 -1	14805 	 None	None 	 1	503 	 None	None 	 -1	7670 	 None	
+
+26  :  None 	 -1	5940 	 None	None 	 -1	2290 	 None	None 	 -1	1893 	 None	
+
+27  :  None 	 -1	3969 	 None	None 	 -1	10860 	 None	20844 	 None	1173 	 None	
+
+28  :  None 	 -1	6040 	 None	None 	 -1	971 	 None	None 	 1	32341 	 None	36390 	 None	29299 	 None	
+
+29  :  None 	 -1	None 	 -1	None 	 -1	6405 	 None	None 	 1	None 	 -1	None 	 1	37369 	 None	None 	 -1	7967 	 None	
+
+30  :  None 	 -1	5908 	 None	None 	 1	8785 	 None	None 	 -1	3055 	 None	
+
+31  :  None 	 -1	6821 	 None	None 	 1	2147 	 None	None 	 -1	6862 	 None	
+
+32  :  None 	 -1	11020 	 None	None 	 -1	1814 	 None	None 	 -1	37839 	 None	
+
+33  :  None 	 -1	36037 	 None	None 	 -1	8076 	 None	None 	 -1	19188 	 None	
+
+34  :  None 	 -1	2421 	 None	None 	 -1	40084 	 None	None 	 -1	19767 	 None	
+
+35  :  None 	 -1	27822 	 None	None 	 -1	22891 	 None	None 	 -1	4970 	 None	
+
+36  :  None 	 -1	3237 	 None	None 	 -1	None 	 -1	None 	 -1	3456 	 None	
+
+37  :  None 	 -1	1103 	 None	82586 	 None	9860 	 None	
+
+38  :  None 	 -1	9992 	 None	None 	 1	None 	 -1	None 	 -1	6735 	 None	
+
+39  :  None 	 -1	5466 	 None	None 	 -1	2362 	 None	
+
+40  :  None 	 -1	4265 	 None	None 	 -1	3524 	 None	
+
+41  :  None 	 -1	1359 	 None	None 	 -1	6329 	 None	
+
+42  :  None 	 -1	42704 	 None	None 	 -1	21692 	 None	
+
+43  :  None 	 -1	4280 	 None	None 	 1	29719 	 None	
+
+44  :  None 	 -1	26207 	 None	None 	 1	3485 	 None	
+
+45  :  None 	 -1	13340 	 None	None 	 1	3939 	 None	
+
+46  :  None 	 -1	584 	 None	None 	 1	29344 	 None	
+
+47  :  None 	 1	None 	 1	None 	 1	2027 	 None	
+
+48  :  30255 	 None	6111 	 None	
+
+49  :  None 	 -1	None 	 1	None 	 1	28813 	 None	
+
+50  :  None 	 1	6952 	 None	
+
+51  :  None 	 -1	2996 	 None	
+
+52  :  None 	 1	2522 	 None	
+
+53  :  4789 	 None	2563 	 None	
+
+54  :  None 	 1	None 	 -1	None 	 1	21141 	 None	
+
+55  :  None 	 -1	9156 	 None	
+
+56  :  None 	 -1	45213 	 None	
+
+57  :  None 	 -1	19451 	 None	
+
+58  :  None 	 -1	2467 	 None	
+
+59  :  None 	 -1	7943 	 None	
+
+60  :  None 	 -1	48296 	 None	
+
+61  :  None 	 -1	15987 	 None	
+
+62  :  None 	 -1	9782 	 None	
+
+63  :  None 	 -1	14405 	 None	
+
+64  :  None 	 -1	17388 	 None	
+
+65  :  None 	 -1	14354 	 None	
+
+66  :  None 	 -1	14971 	 None	
+
+67  :  None 	 -1	12023 	 None	
+
+68  :  None 	 -1	28264 	 None	
+
+69  :  None 	 -1	15595 	 None	
+
+70  :  None 	 -1	32216 	 None	
+
+71  :  None 	 -1	48518 	 None	
+
+72  :  None 	 -1	52732 	 None	
+
+73  :  None 	 -1	32571 	 None	
+
+74  :  None 	 -1	16227 	 None	
+
+75  :  None 	 -1	8278 	 None	
+
+76  :  None 	 -1	75301 	 None	
+
+77  :  None 	 -1	13048 	 None	
+
+78  :  None 	 -1	25603 	 None	
+
+79  :  None 	 -1	10686 	 None	
+
+80  :  None 	 -1	5885 	 None	
+
+81  :  None 	 -1	10301 	 None	
+
+82  :  None 	 -1	7909 	 None	
+
+83  :  None 	 -1	18910 	 None	
+
+84  :  None 	 -1	37526 	 None	
+
+85  :  None 	 -1	7937 	 None	
+
+86  :  None 	 1	9937 	 None	
+
+87  :  None 	 -1	76515 	 None	
+
+88  :  None 	 -1	48075 	 None	
+
+89  :  None 	 -1	4933 	 None	
+
+90  :  None 	 -1	12349 	 None	
+
+91  :  None 	 -1	62439 	 None	
+
+92  :  None 	 -1	20437 	 None	
+
+93  :  None 	 -1	20929 	 None	
+
+94  :  None 	 -1	8161 	 None	
+
+95  :  None 	 -1	19010 	 None	
+
+96  :  None 	 -1	26182 	 None	
+
+97  :  None 	 -1	37246 	 None	
+
+98  :  None 	 -1	33767 	 None	
+
+99  :  None 	 -1	22136 	 None	
+
+100  :  None 	 -1	27157 	 None	
+
+101  :  None 	 -1	79232 	 None	
+
+102  :  None 	 -1	20366 	 None	
+
+103  :  None 	 -1	10327 	 None	
+
+104  :  None 	 -1	7451 	 None	
+
+105  :  None 	 -1	30482 	 None	
+
+106  :  None 	 -1	12926 	 None	
+
+107  :  None 	 -1	26018 	 None	
+
+108  :  None 	 -1	21595 	 None	
+
+109  :  None 	 -1	8299 	 None	
+
+110  :  None 	 -1	20983 	 None	
+
+111  :  None 	 -1	21043 	 None	
+
+112  :  None 	 -1	40452 	 None	
+
+113  :  None 	 -1	32859 	 None	
+
+114  :  None 	 -1	37756 	 None	
+
+115  :  None 	 -1	17770 	 None	
+
+116  :  None 	 -1	19287 	 None	
+
+117  :  None 	 -1	12776 	 None	
+
+118  :  None 	 -1	34367 	 None	
+
+119  :  None 	 -1	44820 	 None	
+
+120  :  None 	 -1	19994 	 None	
+
+121  :  None 	 -1	26837 	 None	
+
+122  :  None 	 -1	62943 	 None	
+
+123  :  None 	 -1	12314 	 None	
+
+124  :  None 	 -1	3682 	 None	
+
+125  :  None 	 -1	22679 	 None	
+
+126  :  None 	 -1	20131 	 None	
+
+127  :  None 	 -1	11429 	 None	
+
+128  :  None 	 -1	28339 	 None	
+
+129  :  None 	 -1	58252 	 None	
+
+130  :  None 	 -1	3671 	 None	
+
+131  :  4950 	 None	6174 	 None	
+
+132  :  None 	 -1	None 	 -1	7334 	 None	3434 	 None	
+
+133  :  None 	 1	None 	 -1	11578 	 None	2289 	 None	
+
+134  :  None 	 1	None 	 -1	76261 	 None	26888 	 None	
+
+135  :  None 	 1	None 	 -1	None 	 1	49812 	 None	
+
+136  :  None 	 1	9862 	 None	
+
+137  :  None 	 1	8699 	 None	
+
+138  :  None 	 1	23468 	 None	
+
+139  :  None 	 1	8536 	 None	
+
+140  :  None 	 1	8749 	 None	
+
+141  :  None 	 1	5245 	 None	
+
+142  :  None 	 1	4222 	 None	
+
+143  :  None 	 -1	1606 	 None	
+
+144  :  None 	 1	41534 	 None	
+
+145  :  None 	 1	6650 	 None	
+
+146  :  None 	 1	5594 	 None	
+
+147  :  None 	 1	8360 	 None	
+
+148  :  None 	 1	3942 	 None	
+
+149  :  None 	 1	2751 	 None	
+
+150  :  6839 	 None	37711 	 None	
+
+151  :  None 	 1	None 	 -1	None 	 1	83686 	 None	
+
+152  :  None 	 1	26942 	 None	
+
+153  :  None 	 1	8297 	 None	
+
+154  :  None 	 1	5326 	 None	
+
+155  :  None 	 1	50091 	 None	
+
+156  :  None 	 1	23992 	 None	
+
+157  :  None 	 1	6689 	 None	
+
+158  :  None 	 1	21609 	 None	
+
+159  :  None 	 1	78030 	 None	
+
+160  :  None 	 1	11711 	 None	
+
+161  :  None 	 1	44445 	 None	
+
+162  :  None 	 1	73964 	 None	
+
+163  :  None 	 1	87888 	 None	
+
+164  :  None 	 1	22443 	 None	
+
+165  :  None 	 1	54720 	 None	
+
+166  :  None 	 1	2075 	 None	
+
+167  :  None 	 1	46381 	 None	
+
+168  :  None 	 1	42693 	 None	
+
+169  :  None 	 1	5845 	 None	
+
+170  :  None 	 -1	8890 	 None	
+
+171  :  None 	 1	17948 	 None	
+
+172  :  None 	 1	2094 	 None	
+
+173  :  None 	 1	64094 	 None	
+
+174  :  None 	 1	25831 	 None	
+
+175  :  None 	 1	5207 	 None	
+
+176  :  None 	 1	3628 	 None	
+
+177  :  None 	 1	1956 	 None	
+
+178  :  4755 	 None	7619 	 None	
+
+179  :  None 	 -1	11904 	 None	None 	 1	21978 	 None	
+
+180  :  None 	 1	None 	 -1	None 	 1	29219 	 None	
+
+181  :  None 	 1	35311 	 None	
+
+182  :  None 	 1	23139 	 None	
+
+183  :  None 	 1	6782 	 None	
+
+184  :  None 	 1	46638 	 None	
+
+185  :  None 	 1	2740 	 None	
+
+186  :  None 	 -1	3451 	 None	
+
+187  :  None 	 1	84087 	 None	
+
+188  :  None 	 1	10687 	 None	
+
+189  :  None 	 1	41535 	 None	
+
+190  :  None 	 1	18277 	 None	
+
+191  :  None 	 1	7813 	 None	
+
+192  :  None 	 1	9721 	 None	
+
+193  :  None 	 1	19403 	 None	
+
+194  :  None 	 1	79054 	 None	
+
+195  :  None 	 1	2922 	 None	
+
+196  :  None 	 1	61366 	 None	
+
+197  :  None 	 1	21613 	 None	
+
+198  :  None 	 1	34072 	 None	
+
+199  :  None 	 1	8586 	 None	
+
+200  :  None 	 1	19293 	 None	
+
+201  :  None 	 1	41142 	 None	
+
+202  :  None 	 1	60311 	 None	
+
+203  :  None 	 1	65038 	 None	
+
+204  :  None 	 1	36515 	 None	
+
+205  :  None 	 1	8605 	 None	
+
+206  :  None 	 1	3692 	 None	
+
+207  :  None 	 1	3702 	 None	
+
+208  :  None 	 -1	53479 	 None	
+
+209  :  None 	 1	70126 	 None	
+
+210  :  None 	 1	2278 	 None	
+
+211  :  None 	 -1	12962 	 None	
+
+212  :  None 	 1	17947 	 None	
+
+213  :  None 	 1	28629 	 None	
+
+214  :  None 	 1	8629 	 None	
+
+215  :  None 	 -1	9419 	 None	
+
+216  :  None 	 1	18115 	 None	
+
+217  :  None 	 1	39407 	 None	
+
+218  :  None 	 1	2120 	 None	
+
+219  :  None 	 1	47289 	 None	
+
+220  :  None 	 1	58085 	 None	
+
+221  :  None 	 1	16801 	 None	
+
+222  :  None 	 1	32018 	 None	
+
+223  :  None 	 1	6217 	 None	
+
+224  :  None 	 1	27449 	 None	
+
+225  :  None 	 1	81277 	 None	
+
+226  :  None 	 1	79382 	 None	
+
+227  :  None 	 1	54972 	 None	
+
+228  :  None 	 1	19241 	 None	
+
+229  :  None 	 1	11365 	 None	
+
+230  :  None 	 1	36787 	 None	
+
+231  :  None 	 1	45579 	 None	
+
+232  :  None 	 1	3500 	 None	
+
+233  :  None 	 -1	3564 	 None	
+
+234  :  None 	 1	22803 	 None	
+
+235  :  None 	 1	27462 	 None	
+
+236  :  None 	 1	61025 	 None	
+
+237  :  None 	 1	44948 	 None	
+
+238  :  None 	 1	27503 	 None	
+
+239  :  None 	 1	5780 	 None	
+
+240  :  None 	 1	12752 	 None	
+
+241  :  None 	 -1	1596 	 None	
+
+242  :  None 	 -1	3136 	 None	
+
+243  :  None 	 1	None 	 1	
+
+Reading Files
+Done.
+0
+./train/train_dataset.txt  error:  0.128
+Reading Files
+Done.
+0
+./test/test_dataset.txt  error:  0.377
+start making tree
+0  :  427 	 None	
+
+1  :  3533 	 None	373 	 None	
+
+2  :  None 	 1	870 	 None	1179 	 None	1270 	 None	
+
+3  :  None 	 1	856 	 None	None 	 -1	1844 	 None	10125 	 None	2235 	 None	
+
+4  :  None 	 -1	734 	 None	None 	 -1	906 	 None	None 	 1	3953 	 None	None 	 -1	3424 	 None	
+
+5  :  622 	 None	7262 	 None	None 	 -1	4620 	 None	None 	 -1	5046 	 None	None 	 -1	18899 	 None	
+
+6  :  None 	 1	813 	 None	None 	 1	23673 	 None	None 	 -1	2421 	 None	None 	 -1	19188 	 None	None 	 1	3111 	 None	
+
+7  :  None 	 1	None 	 -1	None 	 1	19427 	 None	None 	 -1	1285 	 None	None 	 -1	11884 	 None	None 	 -1	5078 	 None	
+
+8  :  None 	 1	30190 	 None	None 	 -1	1014 	 None	None 	 -1	1956 	 None	None 	 -1	2083 	 None	
+
+9  :  None 	 1	2443 	 None	None 	 -1	6277 	 None	None 	 -1	5749 	 None	2187 	 None	2068 	 None	
+
+10  :  None 	 1	2299 	 None	None 	 -1	1627 	 None	None 	 -1	3942 	 None	None 	 1	12919 	 None	4400 	 None	5334 	 None	
+
+11  :  None 	 1	22767 	 None	None 	 -1	23377 	 None	None 	 -1	44514 	 None	None 	 1	None 	 -1	None 	 1	None 	 -1	None 	 -1	7814 	 None	
+
+12  :  None 	 1	9168 	 None	None 	 1	7334 	 None	None 	 -1	24567 	 None	None 	 -1	3850 	 None	
+
+13  :  None 	 1	5679 	 None	None 	 1	971 	 None	None 	 -1	49064 	 None	None 	 -1	3123 	 None	
+
+14  :  1197 	 None	691 	 None	None 	 -1	2252 	 None	None 	 -1	12029 	 None	None 	 1	1897 	 None	
+
+15  :  None 	 -1	None 	 1	955 	 None	328 	 None	None 	 1	3380 	 None	None 	 -1	None 	 1	45579 	 None	2532 	 None	
+
+16  :  None 	 1	None 	 -1	77 	 None	422 	 None	None 	 1	45290 	 None	None 	 1	None 	 -1	4152 	 None	7670 	 None	
+
+17  :  None 	 -1	344 	 None	None 	 -1	363 	 None	None 	 1	6191 	 None	None 	 -1	12720 	 None	None 	 -1	6999 	 None	
+
+18  :  None 	 -1	953 	 None	None 	 -1	2427 	 None	None 	 1	8109 	 None	None 	 -1	13772 	 None	None 	 -1	4666 	 None	
+
+19  :  None 	 -1	3450 	 None	None 	 -1	240 	 None	None 	 1	4953 	 None	None 	 -1	8482 	 None	None 	 -1	4111 	 None	
+
+20  :  None 	 -1	None 	 1	None 	 -1	760 	 None	None 	 1	503 	 None	None 	 -1	4388 	 None	None 	 -1	2362 	 None	
+
+21  :  None 	 -1	368 	 None	None 	 -1	2846 	 None	None 	 -1	None 	 -1	None 	 -1	1893 	 None	
+
+22  :  None 	 -1	1456 	 None	None 	 1	5472 	 None	56749 	 None	4323 	 None	
+
+23  :  None 	 -1	897 	 None	None 	 1	9379 	 None	None 	 1	32341 	 None	None 	 -1	2147 	 None	
+
+24  :  None 	 -1	3969 	 None	None 	 1	28121 	 None	None 	 1	None 	 -1	None 	 1	3182 	 None	
+
+25  :  None 	 -1	6040 	 None	None 	 1	7233 	 None	None 	 -1	21692 	 None	
+
+26  :  None 	 -1	2612 	 None	None 	 1	2256 	 None	None 	 1	29344 	 None	
+
+27  :  None 	 -1	14805 	 None	None 	 -1	10860 	 None	None 	 1	3939 	 None	
+
+28  :  None 	 -1	5940 	 None	None 	 -1	13340 	 None	None 	 1	3485 	 None	
+
+29  :  None 	 -1	None 	 -1	None 	 -1	1173 	 None	None 	 1	29719 	 None	
+
+30  :  None 	 -1	6405 	 None	None 	 1	6329 	 None	
+
+31  :  None 	 -1	4280 	 None	None 	 -1	12926 	 None	
+
+32  :  None 	 -1	4265 	 None	None 	 -1	19767 	 None	
+
+33  :  None 	 -1	6821 	 None	None 	 -1	29299 	 None	
+
+34  :  None 	 -1	24049 	 None	None 	 -1	3524 	 None	
+
+35  :  None 	 -1	3237 	 None	None 	 -1	3889 	 None	
+
+36  :  None 	 -1	1103 	 None	None 	 -1	6735 	 None	
+
+37  :  None 	 -1	42704 	 None	None 	 -1	3285 	 None	
+
+38  :  None 	 -1	2290 	 None	None 	 -1	17388 	 None	
+
+39  :  None 	 -1	4347 	 None	None 	 -1	10301 	 None	
+
+40  :  None 	 -1	27822 	 None	None 	 -1	3682 	 None	
+
+41  :  None 	 -1	11020 	 None	None 	 -1	5009 	 None	
+
+42  :  None 	 -1	26207 	 None	None 	 -1	3055 	 None	
+
+43  :  None 	 -1	36037 	 None	None 	 -1	7967 	 None	
+
+44  :  None 	 -1	5466 	 None	None 	 -1	11095 	 None	
+
+45  :  None 	 -1	584 	 None	None 	 -1	6174 	 None	
+
+46  :  None 	 1	None 	 1	None 	 -1	37839 	 None	
+
+47  :  None 	 -1	19241 	 None	
+
+48  :  None 	 1	1359 	 None	
+
+49  :  None 	 1	17948 	 None	
+
+50  :  None 	 1	3379 	 None	
+
+51  :  None 	 -1	2996 	 None	
+
+52  :  None 	 1	6111 	 None	
+
+53  :  None 	 1	3500 	 None	
+
+54  :  None 	 -1	2522 	 None	
+
+55  :  4789 	 None	2563 	 None	
+
+56  :  None 	 1	None 	 -1	None 	 1	2289 	 None	
+
+57  :  76261 	 None	1289 	 None	
+
+58  :  None 	 1	None 	 -1	5885 	 None	3284 	 None	
+
+59  :  None 	 -1	34367 	 None	14366 	 None	21043 	 None	
+
+60  :  None 	 -1	None 	 -1	None 	 1	None 	 -1	None 	 -1	9156 	 None	
+
+61  :  None 	 -1	14405 	 None	
+
+62  :  None 	 -1	5987 	 None	
+
+63  :  None 	 -1	63102 	 None	
+
+64  :  None 	 -1	30255 	 None	
+
+65  :  None 	 -1	2027 	 None	
+
+66  :  None 	 1	26018 	 None	
+
+67  :  None 	 -1	19782 	 None	
+
+68  :  None 	 -1	20437 	 None	
+
+69  :  None 	 -1	31007 	 None	
+
+70  :  None 	 -1	20983 	 None	
+
+71  :  None 	 -1	12349 	 None	
+
+72  :  None 	 -1	13596 	 None	
+
+73  :  None 	 -1	22891 	 None	
+
+74  :  None 	 -1	62943 	 None	
+
+75  :  None 	 -1	30399 	 None	
+
+76  :  None 	 -1	48075 	 None	
+
+77  :  None 	 -1	7909 	 None	
+
+78  :  None 	 -1	12776 	 None	
+
+79  :  None 	 -1	13048 	 None	
+
+80  :  None 	 -1	10359 	 None	
+
+81  :  None 	 -1	32859 	 None	
+
+82  :  None 	 -1	18910 	 None	
+
+83  :  None 	 -1	8161 	 None	
+
+84  :  None 	 -1	52732 	 None	
+
+85  :  None 	 -1	21141 	 None	
+
+86  :  None 	 -1	30487 	 None	
+
+87  :  None 	 -1	8278 	 None	
+
+88  :  None 	 -1	11429 	 None	
+
+89  :  None 	 -1	15595 	 None	
+
+90  :  None 	 -1	37526 	 None	
+
+91  :  None 	 -1	7937 	 None	
+
+92  :  None 	 1	9937 	 None	
+
+93  :  None 	 -1	86183 	 None	
+
+94  :  None 	 -1	16227 	 None	
+
+95  :  None 	 -1	20929 	 None	
+
+96  :  None 	 -1	3538 	 None	
+
+97  :  None 	 -1	23686 	 None	
+
+98  :  None 	 -1	65217 	 None	
+
+99  :  None 	 -1	22136 	 None	
+
+100  :  None 	 -1	30482 	 None	
+
+101  :  None 	 -1	37246 	 None	
+
+102  :  None 	 -1	19451 	 None	
+
+103  :  None 	 -1	11720 	 None	
+
+104  :  None 	 -1	26837 	 None	
+
+105  :  None 	 -1	43686 	 None	
+
+106  :  None 	 -1	25603 	 None	
+
+107  :  None 	 -1	9653 	 None	
+
+108  :  None 	 -1	14354 	 None	
+
+109  :  None 	 -1	7451 	 None	
+
+110  :  None 	 -1	28339 	 None	
+
+111  :  None 	 -1	22899 	 None	
+
+112  :  None 	 -1	40084 	 None	
+
+113  :  None 	 -1	20366 	 None	
+
+114  :  None 	 -1	11005 	 None	
+
+115  :  None 	 -1	19994 	 None	
+
+116  :  None 	 -1	79232 	 None	
+
+117  :  None 	 -1	48518 	 None	
+
+118  :  None 	 -1	32571 	 None	
+
+119  :  None 	 -1	58252 	 None	
+
+120  :  None 	 -1	50739 	 None	
+
+121  :  None 	 -1	40452 	 None	
+
+122  :  None 	 -1	44820 	 None	
+
+123  :  None 	 -1	9860 	 None	
+
+124  :  None 	 -1	10686 	 None	
+
+125  :  None 	 -1	17770 	 None	
+
+126  :  None 	 -1	20131 	 None	
+
+127  :  None 	 -1	26182 	 None	
+
+128  :  None 	 -1	9992 	 None	
+
+129  :  None 	 -1	75301 	 None	
+
+130  :  None 	 -1	6862 	 None	
+
+131  :  None 	 -1	62439 	 None	
+
+132  :  None 	 -1	3434 	 None	
+
+133  :  None 	 -1	22679 	 None	
+
+134  :  None 	 -1	76515 	 None	
+
+135  :  None 	 -1	7943 	 None	
+
+136  :  None 	 -1	12023 	 None	
+
+137  :  None 	 -1	10327 	 None	
+
+138  :  None 	 -1	3671 	 None	
+
+139  :  4950 	 None	3456 	 None	
+
+140  :  None 	 -1	None 	 -1	9158 	 None	49812 	 None	
+
+141  :  None 	 1	None 	 -1	None 	 1	8699 	 None	
+
+142  :  None 	 1	5594 	 None	
+
+143  :  None 	 1	8749 	 None	
+
+144  :  None 	 1	36787 	 None	
+
+145  :  None 	 1	8785 	 None	
+
+146  :  None 	 1	20844 	 None	
+
+147  :  None 	 1	5245 	 None	
+
+148  :  None 	 1	1606 	 None	
+
+149  :  None 	 1	14274 	 None	
+
+150  :  None 	 1	41534 	 None	
+
+151  :  None 	 1	6864 	 None	
+
+152  :  None 	 1	4222 	 None	
+
+153  :  None 	 -1	6952 	 None	
+
+154  :  None 	 -1	23468 	 None	
+
+155  :  None 	 1	2751 	 None	
+
+156  :  6839 	 None	19293 	 None	
+
+157  :  None 	 1	None 	 -1	None 	 1	8035 	 None	
+
+158  :  None 	 1	26942 	 None	
+
+159  :  None 	 1	21973 	 None	
+
+160  :  None 	 1	28777 	 None	
+
+161  :  None 	 1	48212 	 None	
+
+162  :  None 	 1	54720 	 None	
+
+163  :  None 	 1	5780 	 None	
+
+164  :  None 	 1	3451 	 None	
+
+165  :  None 	 1	8890 	 None	
+
+166  :  None 	 1	8536 	 None	
+
+167  :  None 	 1	54972 	 None	
+
+168  :  None 	 1	9862 	 None	
+
+169  :  None 	 1	6689 	 None	
+
+170  :  None 	 1	61366 	 None	
+
+171  :  None 	 1	83686 	 None	
+
+172  :  None 	 1	21609 	 None	
+
+173  :  None 	 1	19927 	 None	
+
+174  :  None 	 1	21613 	 None	
+
+175  :  None 	 1	36515 	 None	
+
+176  :  None 	 1	8556 	 None	
+
+177  :  None 	 1	87888 	 None	
+
+178  :  None 	 1	44445 	 None	
+
+179  :  None 	 1	39407 	 None	
+
+180  :  None 	 1	14155 	 None	
+
+181  :  None 	 1	58085 	 None	
+
+182  :  None 	 1	23992 	 None	
+
+183  :  None 	 1	8297 	 None	
+
+184  :  None 	 1	37582 	 None	
+
+185  :  None 	 1	8076 	 None	
+
+186  :  None 	 1	22443 	 None	
+
+187  :  None 	 1	27462 	 None	
+
+188  :  None 	 1	81277 	 None	
+
+189  :  None 	 1	41535 	 None	
+
+190  :  None 	 1	5207 	 None	
+
+191  :  None 	 1	48382 	 None	
+
+192  :  None 	 1	28629 	 None	
+
+193  :  None 	 1	8629 	 None	
+
+194  :  None 	 -1	2922 	 None	
+
+195  :  None 	 1	8605 	 None	
+
+196  :  None 	 1	78030 	 None	
+
+197  :  None 	 1	37711 	 None	
+
+198  :  None 	 1	41142 	 None	
+
+199  :  None 	 1	11904 	 None	
+
+200  :  None 	 1	6782 	 None	
+
+201  :  None 	 1	53479 	 None	
+
+202  :  None 	 1	11711 	 None	
+
+203  :  None 	 1	44948 	 None	
+
+204  :  None 	 1	8360 	 None	
+
+205  :  None 	 1	7619 	 None	
+
+206  :  None 	 1	3628 	 None	
+
+207  :  None 	 1	73964 	 None	
+
+208  :  None 	 1	27449 	 None	
+
+209  :  None 	 1	22803 	 None	
+
+210  :  None 	 1	28813 	 None	
+
+211  :  None 	 1	17947 	 None	
+
+212  :  None 	 1	70126 	 None	
+
+213  :  None 	 1	2278 	 None	
+
+214  :  None 	 -1	19403 	 None	
+
+215  :  None 	 1	37369 	 None	
+
+216  :  None 	 1	42693 	 None	
+
+217  :  None 	 1	5845 	 None	
+
+218  :  None 	 -1	2694 	 None	
+
+219  :  None 	 1	6217 	 None	
+
+220  :  None 	 1	79382 	 None	
+
+221  :  None 	 1	3702 	 None	
+
+222  :  None 	 1	32018 	 None	
+
+223  :  None 	 1	8586 	 None	
+
+224  :  None 	 1	65038 	 None	
+
+225  :  None 	 1	7813 	 None	
+
+226  :  None 	 1	47289 	 None	
+
+227  :  None 	 1	79054 	 None	
+
+228  :  None 	 1	61025 	 None	
+
+229  :  None 	 1	13635 	 None	
+
+230  :  None 	 1	2919 	 None	
+
+231  :  None 	 -1	5883 	 None	
+
+232  :  None 	 1	29219 	 None	
+
+233  :  None 	 1	16801 	 None	
+
+234  :  None 	 1	44472 	 None	
+
+235  :  None 	 1	12962 	 None	
+
+236  :  None 	 1	18115 	 None	
+
+237  :  None 	 1	18277 	 None	
+
+238  :  None 	 1	84087 	 None	
+
+239  :  None 	 1	2120 	 None	
+
+240  :  None 	 1	21978 	 None	
+
+241  :  None 	 1	35311 	 None	
+
+242  :  None 	 1	64094 	 None	
+
+243  :  None 	 1	11365 	 None	
+
+244  :  None 	 1	9419 	 None	
+
+245  :  None 	 1	27503 	 None	
+
+246  :  None 	 1	5725 	 None	
+
+247  :  None 	 -1	3564 	 None	
+
+248  :  None 	 1	9721 	 None	
+
+249  :  None 	 1	9985 	 None	
+
+250  :  None 	 1	25831 	 None	
+
+251  :  None 	 1	60311 	 None	
+
+252  :  None 	 1	6650 	 None	
+
+253  :  None 	 1	46638 	 None	
+
+254  :  None 	 1	2740 	 None	
+
+255  :  None 	 -1	2006 	 None	
+
+256  :  None 	 -1	1596 	 None	
+
+257  :  None 	 -1	12752 	 None	
+
+258  :  None 	 -1	2075 	 None	
+
+259  :  None 	 -1	1707 	 None	
+
+260  :  None 	 -1	3136 	 None	
+
+261  :  None 	 1	4755 	 None	
+
+262  :  None 	 1	None 	 1	
+
+Reading Files
+Done.
+0
+./train/train_dataset.txt  error:  0.129
+Reading Files
+Done.
+0
+./test/test_dataset.txt  error:  0.374
